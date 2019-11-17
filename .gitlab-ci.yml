@@ -1,0 +1,15 @@
+image: node:${NODE_JS_VERSION}
+
+stages:
+  - test
+
+eslint:
+  stage: test
+  before_script:
+    - npm install
+  cache:
+    key: $CI_COMMIT_REF_SLUG
+    paths:
+      - node_modules/
+  script:
+    - npm run eslint

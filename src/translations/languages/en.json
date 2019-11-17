@@ -1,0 +1,68 @@
+{
+  "buttons": {
+    "yes": "Yes",
+    "no": "No",
+    "cancel": "Cancel",
+    "loading": "Loading...",
+    "needCargo": "I need cargo",
+    "orderCar": "Order car",
+    "orderChange": "Change order",
+    "orderCancel": "Cancel order",
+    "continueSearch": "Continue search",
+    "sendAnswer": "Send answer",
+    "anyType": "Any type is ok",
+    "contactMe": "Contact me"
+  },
+  "errors": {
+    "network": "Network error, check your internet connection."
+  },
+  "404": {
+    "title": "404",
+    "notFoundText": "Unfortunately, the search was not successful",
+    "backToHomePage": "Back to home page"
+  },
+  "stepTwo": {
+    "present": "We present you ",
+    "car": "Car",
+    "goo": "Goo",
+    "orderPlatform": "Revolutionary platform for cargo taxi order"
+  },
+  "stepThree": {
+    "receive": "Receive ",
+    "many": "many ",
+    "orders": "orders ",
+    "withCargoo": "with CarGoo",
+    "weProvide": "We will provide you with big and stable list of cargo orders in your city"
+  },
+  "stepFour": {
+    "newOrderEvery": "New order every ",
+    "twoMinutes": "2 minutes",
+    "weProvide": "We will provide you with stable working schedule, not single time orders"
+  },
+  "stepFive": {
+    "earnFrom": "Earn from ",
+    "thousands": "22 thousands ",
+    "perMonth": "per month",
+    "weProvide": "We will provide you with stable working schedule, not single time orders"
+  },
+  "stepSix": {
+    "receiveMoney": "Receive money ",
+    "atOnce": "at once ",
+    "weProvide": "Instant withdrawal of any amounts on the card instead of waiting for the settlement period"
+  },
+  "stepSeven": {
+    "allOrders": "All orders are ",
+    "real": "real ",
+    "weProvide": "Money is withdrawn from the client as soon as you accept the order in the application"
+  },
+  "stepEight": {
+    "intuitive": "Intuitive ",
+    "design": "design",
+    "weProvide": "I have no idea what else to add here)))"
+  },
+  "contact": {
+    "leaveYour": "Leave your ",
+    "email": "email ",
+    "info": "Get the opportunity to be the first to know about the release of our application!"
+  }
+}
