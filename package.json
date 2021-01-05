@@ -19,7 +19,7 @@
   ],
   "dependencies": {
     "@babel/cli": "^7.7.0",
-    "axios": "^0.18.1",
+    "axios": "^0.21.1",
     "extend": "^3.0.2",
     "js-cookie": "^2.2.1",
     "jsx-control-statements": "^3.2.8",
